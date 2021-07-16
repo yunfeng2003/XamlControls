@@ -20,7 +20,7 @@ using Microsoft.Graphics.Canvas.UI.Xaml;
 using Windows.UI;
 // The User Control item template is documented at https://go.microsoft.com/fwlink/?LinkId=234236
 
-namespace XamlLabel
+namespace Minicraft.XamlControls
 {
     public sealed partial class Label : UserControl
     {
